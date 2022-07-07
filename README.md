@@ -5,9 +5,9 @@
 This is a project to show what I learnt in Day 15 and 16 of the NG30daysoflearning. "Storytelling with PowerBi by [Paul]()"
 
 # Problem Statement
-TheOyinbooke and friends decided to set up a training NG30daysoflearning for the Nigerian University students affected by the ongoing ASUU strike. Their goal was to equip the students with the necessary skills, needed to kickstart a carrer in the Data world.
+[TheOyinbooke](https://twitter.com/TheOyinbooke/status/1523694387770789888?s=20&t=cMFdNmB-FERzi_jbe14iLw) and friends decided to set up a training NG30daysoflearning for the Nigerian University students affected by the ongoing ASUU strike. Their goal was to equip the students with the necessary skills, needed to kickstart a carrer in the Data world.
 
-Few days ago i received a maill from one of the organisers, in which i was told to analyse the twitter engagement of the programme and draw out necessary insights that can be used to answer the big question "Was this programme a sucess"
+Few days ago I received a mail from one of the organisers, in which I was told to analyse the twitter engagement of the programme and draw out necessary insights that can be used to answer the big question **Was this programme a sucCess**
 
 # Data Sourcing
 Dataset was provided in two forms, of which any can be used
@@ -24,8 +24,7 @@ Data was cleaned in PowerQwery
 - Datatypes were validated and every other details was checked accordingly
 
 # Data Visualisation
-<img width="320" alt="total analysis" src="https://user-images.githubusercontent.com/105246702/177762959-f0d612a3-3777-4833-a200-07b207eadb06.png">
-<img width="322" alt="retweet" src="https://user-images.githubusercontent.com/105246702/177763039-040c8b48-ffbb-4b43-85f3-f1b278909a73.png">
+<img width="320" alt="front page" src="https://user-images.githubusercontent.com/105246702/177770814-898c5ab3-d8d0-48e0-8ce0-67cbba6cb0c8.png">
 
 [Interact with report here](https://app.powerbi.com/view?r=eyJrIjoiMWRhNWViZWUtYTM4MS00NTVhLWI2YmMtZWNhMjYyNDA2OGE0IiwidCI6IjBjZmU3YmI2LTZhMzUtNDM4OS1hODQ4LTU1ZTdjZjZlN2NmMSJ9)
 
@@ -48,7 +47,7 @@ Data was cleaned in PowerQwery
 - Out of the Top 3 active participants only 1 is an acutual learner who is no 2 on the list, 
 <img width="145" alt="top 3 active users" src="https://user-images.githubusercontent.com/105246702/177759860-3ab49c57-eeff-49b7-87a0-a9f0478c21b1.png">
 
-- a futher research into this category showed that out of Top 20 participants, about 12 are actual learners. Why are the actual learners not topping this category?. From my research one would wonder maybe cos of their audience size thus less engagements on their posts. 
+- a futher research into this category showed that out of Top 20 participants, about 12 are actual learners. Why are the actual learners not topping this category?. From my research one would wonder maybe because of their audience size thus less engagements on their posts. 
 <img width="149" alt="top 20 active participants" src="https://user-images.githubusercontent.com/105246702/177759951-499f5fe8-0dbf-47dc-a5b3-5ab82b20ea91.png">
 
 
