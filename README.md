@@ -35,7 +35,7 @@ Data was cleaned in PowerQwery
 
 
 ### 7pm time with highest engagement.
-- **7pm** had the most activity with 52 tweets followed by 12pm at 49 and 11am at 46. This begs the question, Why was the activities higher at this time,a futher dive into this can help organisers make decisions as to whats the best time to have classes and more
+- **7pm** had the most activity with 52 tweets followed by 12pm at 49 and 11am at 46. This begs the question, Why was activities higher at this time, a futher dive into this can help organisers make decisions as to what's the best time to have classes and many more.
 <img width="294" alt="tweet hours" src="https://user-images.githubusercontent.com/105246702/177759745-926c0e65-7ae7-4923-9a4e-3a99dc2f931d.png">
 
 ### 7 days in a week and Wednesday is the most active day
@@ -47,14 +47,14 @@ Data was cleaned in PowerQwery
 - Out of the Top 3 active participants only 1 is an acutual learner who is no 2 on the list, 
 <img width="145" alt="top 3 active users" src="https://user-images.githubusercontent.com/105246702/177759860-3ab49c57-eeff-49b7-87a0-a9f0478c21b1.png">
 
-- a futher research into this category showed that out of Top 20 participants, about 12 are actual learners. Why are the actual learners not topping this category?. From my research one would wonder maybe because of their audience size thus less engagements on their posts. 
+- A futher research into this category showed that out of Top 20 participants, about 12 are actual learners. Why are the actual learners not topping this category?. From my research one would wonder maybe because of their audience size thus less engagements on their posts. 
 <img width="149" alt="top 20 active participants" src="https://user-images.githubusercontent.com/105246702/177759951-499f5fe8-0dbf-47dc-a5b3-5ab82b20ea91.png">
 
 
 ### Lagos, a perfect location for physical gatherings
 - In case of a data hangout or creation of a physical Hub, **Lagos** will be the go to location, most of the participants are located here.
 - Also **USA** can be seen on the chart, showing the training went beyond the shores of Nigeria.
-- 
+
  *In the dataset location had 71% validity, blank spaces and Nigeria was excluded so as to get a rough visualisation of this category*
  <img width="131" alt="location" src="https://user-images.githubusercontent.com/105246702/177760019-aec5f0ad-c3ec-458d-b627-506e4505bcd1.png">
 
