@@ -33,11 +33,11 @@ Data was cleaned in PowerQwery
 
 
 ### Time of the Day participants are most active
-- 7pm had the most activity with 52 tweets followed by 12pm at 49 and 11am at 46. This begs the question, Why was the activities higher at this time,a futher dive into this can help organisers make decisions as to whats the best time to have classes and more
+- **7pm** had the most activity with 52 tweets followed by 12pm at 49 and 11am at 46. This begs the question, Why was the activities higher at this time,a futher dive into this can help organisers make decisions as to whats the best time to have classes and more
 <img width="294" alt="tweet hours" src="https://user-images.githubusercontent.com/105246702/177759745-926c0e65-7ae7-4923-9a4e-3a99dc2f931d.png">
 
 ### Day of the Week participants are most active
-- Wednesday topped the list with 155 . One will wonder if something special happens on this day, or if the organisers do something on this day that should be taken note of. Our dataset can't answer this questions but a survey carried out by the organisers can help answer it
+- **Wednesday** topped the list with 155 . One will wonder if something special happens on this day, or if the organisers do something on this day that should be taken note of. Our dataset can't answer this questions but a survey carried out by the organisers can help answer it
 <img width="137" alt="tweet day" src="https://user-images.githubusercontent.com/105246702/177759787-f3b08a8f-371e-4793-894e-50d23c16a863.png">
 
 
@@ -50,8 +50,9 @@ Data was cleaned in PowerQwery
 
 
 ### Location of Participants
-- In case of a data hangout or creation of a physical Hub, Lagos will be the go to location, most of the participants are located here.
-- Also USA can be seen on the chart, showing the training went beyond the shores of Nigeria.
+- In case of a data hangout or creation of a physical Hub, **Lagos** will be the go to location, most of the participants are located here.
+- Also **USA** can be seen on the chart, showing the training went beyond the shores of Nigeria.
+- 
  *In the dataset location had 71% validity, blank spaces and Nigeria was excluded so as to get a rough visualisation of this category*
  <img width="131" alt="location" src="https://user-images.githubusercontent.com/105246702/177760019-aec5f0ad-c3ec-458d-b627-506e4505bcd1.png">
 
@@ -66,5 +67,6 @@ Data was cleaned in PowerQwery
 - Organisers should carry out a survey to get clearer insights why Wednesday and 7pm are topping their various categories, this can be used to make more informed decisions about what time to hold classes and time they can get most of the attention of the participants
 - Ways should be crated to showcase the actual participants posts and work to a larger audience, this will give room for more opportunities for them and collaborations with other Data Training Organisation
 - Posts of the actual learners should have higher likes and retweets as this will help people know the participants are actually learning. An avenue should be created to help the learners showcasing their work reach a higher audience
+
 
  
