@@ -35,19 +35,19 @@ Data was cleaned in PowerQwery
 
 
 ### 7pm time with highest engagement.
-- **7pm** had the most activity with 52 tweets followed by 12pm at 49 and 11am at 46. This begs the question, Why was activities higher at this time, a futher dive into this can help organisers make decisions as to what's the best time to have classes and many more.
+- **7pm** had the most activity with 52 tweets followed by 12pm at 49 and 11am at 46. This begs the question, Why was activities higher at this time,could it be that's the time most people get back from work and are settled to start their lessons?. A futher dive into this can help organisers make decisions as to what's the best time to have classes and many more.
 <img width="294" alt="tweet hours" src="https://user-images.githubusercontent.com/105246702/177759745-926c0e65-7ae7-4923-9a4e-3a99dc2f931d.png">
 
 ### 7 days in a week and Wednesday is the most active day
-- **Wednesday** topped the list with 155 . One will wonder if something special happens on this day, or if the organisers do something on this day that should be taken note of. Our dataset can't answer this questions but a survey carried out by the organisers can help answer it
+- **Wednesday** topped the list with 155 . One will wonder if something special happens on this day, or if the organisers do something on this day that should be taken note of. Our dataset can't answer this questions but a survey carried out by the organisers can help answer it.
 <img width="137" alt="tweet day" src="https://user-images.githubusercontent.com/105246702/177759787-f3b08a8f-371e-4793-894e-50d23c16a863.png">
 
 
-### Just 1 actual learner in the top 3 active participants
-- Out of the Top 3 active participants only 1 is an acutual learner who is no 2 on the list, 
+### 2 actual learners in the top 3 active participants
+- Out of the Top 3 active participants 2 are acutual learners, this is an excellent insight as it shows the training is effective, 
 <img width="145" alt="top 3 active users" src="https://user-images.githubusercontent.com/105246702/177759860-3ab49c57-eeff-49b7-87a0-a9f0478c21b1.png">
 
-- A futher research into this category showed that out of Top 20 participants, about 12 are actual learners. Why are the actual learners not topping this category?. From my research one would wonder maybe because of their audience size thus less engagements on their posts. 
+- A futher research into this category showed that out of Top 20 participants, about 15 are actual learners, we can say, the participants are involved in their learning and showcasing their work
 <img width="149" alt="top 20 active participants" src="https://user-images.githubusercontent.com/105246702/177759951-499f5fe8-0dbf-47dc-a5b3-5ab82b20ea91.png">
 
 
@@ -62,8 +62,6 @@ Data was cleaned in PowerQwery
 ### Announcements tweets getting most attention?
 - A pattern can be seen from this category, in the most liked tweets, 9 are announcements except the first tweet which was by a participant and for the most retweeted all 10 are announcements.
 <img width="322" alt="retweet" src="https://user-images.githubusercontent.com/105246702/177760070-58b20b99-8cae-4f59-a158-69a6f2c71dc7.png">
-
-
 
 # Recommendations
 - Organisers should carry out a survey to get clearer insights why Wednesday and 7pm are topping their various categories, this can be used to make more informed decisions about what time to hold classes and time they can get most of the attention of the participants
